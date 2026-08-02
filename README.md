@@ -1,2 +1,2 @@
 # Calcy
-Just a simple C++ Calculator.
+Just a humble command line C++ Calculator.
